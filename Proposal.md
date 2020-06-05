@@ -14,7 +14,7 @@ WIP is a portal for artists and designers to gain platforms and showcase their c
 ## Wireframes
 
 **Home Page**  
-![Home Page](Proposal/Images/Project 4.jpg)  
+![Home Page](https://github.com/4thquarter/p4front/blob/master/Proposal/Images/Project%204.jpg)  
 
 ## MVP User Stories
 
