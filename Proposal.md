@@ -1,11 +1,12 @@
 # [ WIP ]
 
 ## Logistics
-**Scrum Master:** 
-Andrés Ortiz Montalvo
 
 **Project Team:**
 Sean Riley | William Wright | Sam Russell | Andrés Ortiz Montalvo
+
+**Scrum Master:** 
+Andrés Ortiz Montalvo
 
 ## Project Description
 
