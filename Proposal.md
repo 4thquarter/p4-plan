@@ -39,34 +39,34 @@ _**Post MVP Stretch Goals**_
 	"id": 1,
 	"title": "Under the Sea",
 	"artist": "Ariel",
-  "medium": "
+  	"medium": "Mixed",
 	"dominant_color": "Blue",
 	"main_image_url": "imgurl1.com",
-	"optional_additional_images_urls": [
-      "imgurl2.com",
-      "imgurl3.com",
-      "imgurl4.com"
-  ],
+	"optional_additional_images_urls":  [
+      		"imgurl2.com",
+      		"imgurl3.com",
+      		"imgurl4.com"
+  	],
 	"collection": "Disney Classics",
-  "info": "informational paragraph"
+  	"info": "Informational Paragraph"
 }
 ```
 
 #### Component Details
 
-| Component                    | State/Props |
-| ---------------------------- | :---------: |
-| Helper                       |    State    |
-| App                          |    State    |
-| Nav Bar                      |    Props    |
-| Profile Page                 |    Props    |
-| Item detail page             |    Props    |
-| About                        |    Props    |
-| Footer                       |     N/A     |
+| Component                    		| State/Props |
+| :-----------------------------------: | :---------: |
+| Helper 				|    State    |
+| App 					|    State    |
+| Nav Bar  				|    Props    |
+| Profile Page  			|    Props    |
+| Item detail page  			|    Props    |
+| About 				|    Props    |
+| Footer 				|     N/A     |
 
 
 #### Back-End Objectives and Technologies Used
 - Develop a backend powered by Django and MongoDB with the use of AWS for file uploading and storage to feed the frontend ReactJS application.
-- Implement (CRUD) Create, Read, Update, and Destroy functionality for all objects throughout the application
+- Implement (CRUD) Create, Read, Update, and Destroy functionality for all objects throughout the application.
 
 
